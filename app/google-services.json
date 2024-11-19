@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "546342425138",
+    "project_id": "jeleapps-2c149",
+    "storage_bucket": "jeleapps-2c149.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546342425138:android:d2312ea7fbf5b5f1f9222b",
+        "android_client_info": {
+          "package_name": "com.example.jeleapps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeZDNo4b6-fZdm4QqxqQexMEvhnp6R5-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
